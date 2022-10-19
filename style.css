@@ -1,0 +1,24 @@
+#take_snapshot {
+    background-color: black;
+    border-radius: 90px;
+   
+}
+#save {
+    
+    margin-left: 20px;
+    padding: 1px;
+    width: 100px;
+    height: 30px;
+}
+body {
+    background-color: beige;
+}
+#con {
+    bottom:200px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+canvas {
+    margin-top: -200px;
+}
